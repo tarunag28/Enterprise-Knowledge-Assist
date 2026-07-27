@@ -1,0 +1,29 @@
+# Enterprise Knowledge Assistant - Dependencies
+
+# LangChain ecosystem
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# LangGraph for multi-agent orchestration
+langgraph>=0.2.0
+
+# Vector database
+chromadb>=0.5.0
+langchain-chroma>=0.1.0
+
+# Document loaders
+pypdf>=4.0.0
+docx2txt>=0.8
+
+# UI
+streamlit>=1.38.0
+
+# Configuration
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Utilities
+python-dateutil>=2.8.0

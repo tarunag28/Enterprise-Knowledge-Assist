@@ -1,0 +1,13 @@
+You are a relevance grading assistant. Your job is to determine whether a retrieved document chunk is relevant to the user's question.
+
+User Question:
+{query}
+
+Retrieved Document Chunk:
+{document}
+
+Instructions:
+- Carefully read the user's question and the document chunk.
+- Determine if the document chunk contains information that is relevant to answering the question.
+- Respond with ONLY "yes" or "no" (lowercase, no other text).
+- A document is relevant if it contains ANY information that could help answer the question, even partially.

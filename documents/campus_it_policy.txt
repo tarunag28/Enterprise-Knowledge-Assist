@@ -1,0 +1,350 @@
+PINNACLE STATE UNIVERSITY — CAMPUS IT & CYBERSECURITY POLICY
+Version 3.0 | Effective Date: July 1, 2025
+Department: Information Technology Services (ITS)
+Classification: All Students, Faculty, and Staff
+
+TABLE OF CONTENTS
+1. Purpose and Scope
+2. Student Accounts and Authentication
+3. Campus Network and WiFi
+4. Learning Management System (LMS)
+5. Computer Labs and Printing
+6. Data Privacy and FERPA Compliance
+7. Incident Reporting and Support
+8. Acceptable Use Policy
+9. Compliance and Training
+
+---
+
+1. PURPOSE AND SCOPE
+
+1.1 Purpose
+This policy establishes the information technology and cybersecurity standards for all members of the Pinnacle State University community. It aims to protect university data, systems, and infrastructure while ensuring equitable access to technology resources that support teaching, learning, and research.
+
+1.2 Scope
+This policy applies to:
+- All enrolled students (undergraduate, graduate, and non-degree)
+- All faculty and staff members
+- Visiting scholars and guest researchers
+- All university-owned devices (computers, tablets, lab equipment)
+- Personal devices used to access university systems (BYOD)
+- All university data regardless of storage location
+- All network access including on-campus WiFi, VPN, and remote connections
+
+---
+
+2. STUDENT ACCOUNTS AND AUTHENTICATION
+
+2.1 PSU Student Account
+Upon enrollment, every student receives a PSU account that provides access to:
+- PSU Email (firstname.lastname@pinnaclestate.edu)
+- MyPSU Student Portal (registration, grades, financial aid)
+- Canvas Learning Management System
+- Campus WiFi (PSU-Secure and eduroam)
+- Microsoft 365 (Word, Excel, PowerPoint, Teams, OneDrive — free for students)
+- Library databases and digital resources
+- Computer lab access
+
+Account credentials are distributed via the welcome email sent after enrollment confirmation. Your username is your Student ID number (e.g., PSU0012345).
+
+2.2 Password Requirements
+All student passwords must meet the following criteria:
+- Minimum length: 10 characters
+- Must include: at least one uppercase letter, one lowercase letter, one number, and one special character (!@#$%^&*)
+- Cannot reuse any of the last 8 passwords
+- Must be changed every 120 days (you will receive email reminders starting 14 days before expiration)
+- Cannot contain your name, Student ID, date of birth, or common dictionary words
+
+Password resets can be done through the self-service portal at https://password.pinnaclestate.edu or by contacting the ITS Help Desk.
+
+2.3 Multi-Factor Authentication (MFA)
+MFA is required for:
+- MyPSU Student Portal access
+- Canvas LMS access from off-campus networks
+- University email access from new or unrecognized devices
+- VPN connections
+- Financial systems (tuition payment, financial aid portal)
+
+PSU uses Microsoft Authenticator as the primary MFA application. Students can also use SMS-based verification as a backup method. Hardware security keys are available for purchase at the Campus Technology Store ($25).
+
+2.4 Account Lockout and Recovery
+- Accounts are locked after 7 failed login attempts
+- Lockout duration: 15 minutes for standard accounts
+- Persistent lockouts require ITS Help Desk intervention
+- All lockout events are logged by the Security Operations team
+- Accounts inactive for more than 180 days after enrollment end are deactivated
+
+---
+
+3. CAMPUS NETWORK AND WIFI
+
+3.1 WiFi Networks
+PSU provides the following wireless networks across campus:
+
+PSU-Secure (Primary Student/Faculty Network):
+- WPA3 Enterprise authentication
+- Requires PSU credentials to connect
+- Full access to university resources and internet
+- Recommended for all daily use
+
+eduroam (Inter-Institutional Network):
+- Available for PSU students visiting other participating universities
+- Visiting scholars from eduroam-member institutions can connect using their home credentials
+- Setup instructions at https://wifi.pinnaclestate.edu/eduroam
+
+PSU-Guest (Visitor Network):
+- Open network for campus visitors
+- Requires acceptance of terms of use
+- Internet-only access (no university internal resources)
+- Limited bandwidth (10 Mbps)
+- 24-hour session limit with re-authentication required
+
+3.2 Wired Network Access
+Ethernet connections are available in:
+- All residence hall rooms (1 Gbps per port)
+- Computer labs and classrooms
+- Library study rooms
+- Faculty and staff offices
+
+Residence hall students must register their device MAC address at https://network.pinnaclestate.edu before connecting via Ethernet.
+
+3.3 VPN Access
+The university VPN (GlobalProtect by Palo Alto) is required for:
+- Accessing library databases from off-campus
+- Connecting to research lab systems remotely
+- Accessing administrative systems from home
+- Secure file transfer of sensitive research data
+
+VPN client download: https://vpn.pinnaclestate.edu
+Authentication: PSU credentials + MFA
+
+3.4 Bandwidth and Fair Use
+To ensure equitable network access for all users:
+- Per-device bandwidth limit: 100 Mbps (WiFi), 1 Gbps (wired)
+- Peer-to-peer file sharing of copyrighted material is strictly prohibited
+- Network abuse (excessive bandwidth consumption, running servers) may result in temporary disconnection
+- Streaming media is allowed but may be throttled during peak academic hours (8:00 AM – 5:00 PM weekdays)
+
+---
+
+4. LEARNING MANAGEMENT SYSTEM (LMS)
+
+4.1 Canvas LMS
+Pinnacle State University uses Canvas as its official Learning Management System.
+- Access: https://canvas.pinnaclestate.edu or through MyPSU
+- Mobile App: Canvas Student (available on iOS and Android)
+
+Canvas provides:
+- Course materials, syllabi, and lecture recordings
+- Assignment submission and grade tracking
+- Discussion boards and group collaboration
+- Integrated video conferencing (Zoom)
+- Plagiarism detection (Turnitin integration)
+
+4.2 Student Responsibilities
+Students are expected to:
+- Check Canvas daily for course updates and announcements
+- Submit assignments before the posted deadline (Canvas timestamps are authoritative)
+- Maintain academic integrity in all online submissions
+- Report technical issues to the ITS Help Desk, not to instructors
+- Keep their Canvas notification preferences updated (email and push notifications recommended)
+
+4.3 Zoom for Education
+PSU provides Zoom Education licenses to all students and faculty:
+- Unlimited meeting duration
+- Recording and transcription capabilities
+- Breakout rooms for group work
+- Access through Canvas or https://pinnaclestate.zoom.us
+- Students must use their PSU email to sign into Zoom
+
+Meeting etiquette:
+- Use your real name (as registered at PSU)
+- Mute when not speaking
+- Enable video when requested by the instructor
+- Do not record sessions without explicit permission from the instructor and all participants
+
+---
+
+5. COMPUTER LABS AND PRINTING
+
+5.1 Computer Lab Locations and Hours
+| Lab Name | Location | Computers | Hours |
+|----------|----------|-----------|-------|
+| Summit Lab | Library, 2nd Floor | 120 PCs | Mon–Thu 7AM–12AM, Fri 7AM–10PM, Sat–Sun 9AM–10PM |
+| Engineering Lab | Engineering Bldg, Room 305 | 60 PCs | Mon–Fri 8AM–9PM, Sat 10AM–6PM |
+| Arts Media Lab | Fine Arts Bldg, Room 112 | 40 Macs | Mon–Fri 9AM–8PM |
+| Health Sciences Lab | HSB, Room 204 | 45 PCs | Mon–Fri 8AM–7PM |
+| 24-Hour Lab | Student Union, Room 101 | 30 PCs | Open 24/7 during academic sessions |
+
+5.2 Software Available in Labs
+All lab computers include:
+- Microsoft 365 Suite (Word, Excel, PowerPoint, Access)
+- Adobe Creative Cloud (Photoshop, Illustrator, Premiere Pro, InDesign)
+- MATLAB and Mathematica
+- SPSS and R Studio (statistical analysis)
+- AutoCAD and SolidWorks (Engineering Lab only)
+- Python (Anaconda distribution), Visual Studio Code, Eclipse
+- Web browsers (Chrome, Firefox, Edge)
+
+Students may request additional software through the ITS Service Portal. Requests are reviewed weekly.
+
+5.3 Printing Services
+Every student receives a printing allocation each semester:
+- Black & white: 500 pages/semester (included in Technology Fee)
+- Color: 100 pages/semester (included in Technology Fee)
+- Additional printing: $0.05/page B&W, $0.25/page color
+- Large format (posters): $3.00/square foot (available at the Library Print Center)
+
+Printing is managed through PaperCut. Log in at any campus printer using your PSU ID card or Student ID number. Print jobs can be sent from any campus computer or personal device via https://print.pinnaclestate.edu.
+
+---
+
+6. DATA PRIVACY AND FERPA COMPLIANCE
+
+6.1 FERPA Overview
+The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student education records. Under FERPA, students have the right to:
+- Inspect and review their education records within 45 days of request
+- Request amendment of inaccurate or misleading records
+- Consent to disclosure of personally identifiable information (PII) from their records
+- File complaints with the U.S. Department of Education regarding FERPA violations
+
+6.2 Directory Information
+PSU designates the following as directory information (may be disclosed without consent):
+- Student name
+- Major field of study
+- Enrollment status (full-time, part-time)
+- Dates of attendance
+- Degrees and honors received
+- Participation in officially recognized activities and sports
+
+Students may opt out of directory information disclosure by submitting a request to the Registrar's Office within the first 2 weeks of each semester.
+
+6.3 Data Handling for Students
+- Never share your PSU credentials with anyone, including roommates and classmates
+- Do not store other students' personal information on personal devices
+- Report any suspected data breach to security@pinnaclestate.edu immediately
+- Course-related group projects should use university-approved collaboration tools (Teams, OneDrive, Google Workspace for Education)
+- Research data involving human subjects must comply with the IRB (Institutional Review Board) requirements
+
+6.4 University Data Classification
+PUBLIC: Course catalogs, event schedules, campus maps
+INTERNAL: Course rosters, internal communications, meeting notes
+CONFIDENTIAL: Student records, grades, financial aid data, health records, Social Security numbers
+RESTRICTED: Research data under NDA, export-controlled information, HIPAA-protected data
+
+---
+
+7. INCIDENT REPORTING AND SUPPORT
+
+7.1 ITS Help Desk
+The ITS Help Desk is your first point of contact for all technology issues:
+- Email: helpdesk@pinnaclestate.edu
+- Phone: (555) 472-4357 (extension 4357 from campus phones)
+- Walk-in: Library, 1st Floor, Room 105
+- Online Portal: https://service.pinnaclestate.edu
+- Hours: Monday–Friday 7:30 AM – 9:00 PM; Saturday 9:00 AM – 5:00 PM; Sunday 12:00 PM – 8:00 PM
+
+Common issues the Help Desk can assist with:
+- Password resets and account lockouts
+- WiFi connectivity problems
+- Canvas LMS technical issues
+- Email configuration
+- VPN setup and troubleshooting
+- Software installation on personal devices
+- Printing issues
+
+7.2 Security Incident Reporting
+Report security incidents immediately to:
+- ITS Security Team: security@pinnaclestate.edu
+- Emergency (after hours): (555) 472-9111
+
+Types of incidents to report:
+- Phishing emails or suspicious messages
+- Unauthorized access to your account
+- Malware or ransomware on university or personal devices
+- Lost or stolen devices containing university data
+- Suspected data breaches
+- Suspicious persons in computer labs or server rooms
+
+7.3 Incident Response Process
+1. REPORT: Submit incident through the ITS Service Portal or contact the Help Desk
+2. TRIAGE: ITS Security team assesses severity within 2 hours
+3. CONTAIN: Affected systems are isolated to prevent further damage
+4. INVESTIGATE: Root cause analysis and impact assessment
+5. REMEDIATE: Vulnerabilities are patched and systems restored
+6. COMMUNICATE: Affected users are notified within 48 hours of confirmed incidents
+7. REVIEW: Post-incident report and policy updates as needed
+
+---
+
+8. ACCEPTABLE USE POLICY
+
+8.1 Acceptable Use
+University IT resources may be used for:
+- Academic coursework and research
+- University-related administrative activities
+- Limited personal use that does not interfere with academic or university operations
+- Professional development and educational enrichment
+
+8.2 Prohibited Activities
+The following activities are strictly prohibited:
+- Accessing, downloading, or distributing illegal, obscene, or threatening content
+- Unauthorized access to systems, accounts, or data (hacking)
+- Installing cryptocurrency mining software on university equipment
+- Using university resources for commercial purposes or personal financial gain
+- Sharing login credentials with anyone
+- Running unauthorized network services (servers, routers, access points) in residence halls
+- Circumventing security controls, firewalls, or content filters
+- Mass unsolicited emails (spam) from university accounts
+- Copyright infringement (downloading or sharing pirated media, software, or textbooks)
+- Using university systems to harass, threaten, or intimidate others
+
+8.3 Monitoring and Enforcement
+PSU reserves the right to monitor network traffic and system usage on university-owned equipment and networks. This monitoring is conducted to:
+- Ensure network security and performance
+- Investigate reported incidents
+- Comply with legal requirements
+
+Users should have no expectation of privacy when using university IT resources. Violations may result in:
+- First offense: Written warning and mandatory IT security refresher
+- Second offense: Suspension of IT privileges (1–4 weeks)
+- Severe violations: Referral to Student Conduct for disciplinary action
+- Criminal activity: Referral to campus police and law enforcement
+
+---
+
+9. COMPLIANCE AND TRAINING
+
+9.1 Required Training
+All students must complete:
+- New Student IT Orientation: During orientation week (required before account activation)
+- Annual Cybersecurity Awareness Training: Due by October 15 each year (available on Canvas)
+- Phishing Awareness Module: Once per semester (20 minutes, available on Canvas)
+
+Faculty and staff have additional training requirements specific to their roles.
+
+9.2 Compliance Frameworks
+PSU maintains compliance with:
+- FERPA (Family Educational Rights and Privacy Act)
+- HIPAA (for health-related research and student health records)
+- PCI DSS (for payment card processing — tuition, bookstore, dining)
+- GLBA (Gramm-Leach-Bliley Act — for financial aid data)
+- NIST Cybersecurity Framework (university-wide security baseline)
+- Colorado Data Privacy Act (state-level requirements)
+
+9.3 Software Licensing
+- Students receive free access to Microsoft 365 and Adobe Creative Cloud during enrollment
+- MATLAB, SPSS, and other specialized software are available through campus volume licenses
+- Students must not install pirated or unlicensed software on university equipment
+- Personal software license questions can be directed to the Campus Technology Store
+
+---
+
+For IT questions, technical support, or to report a security incident:
+- ITS Help Desk: helpdesk@pinnaclestate.edu | (555) 472-4357
+- ITS Security: security@pinnaclestate.edu
+- Service Portal: https://service.pinnaclestate.edu
+- Campus Technology Store: Library, 1st Floor | techstore@pinnaclestate.edu
+
+Last Updated: July 1, 2025
+Approved by: Dr. James Park, Chief Information Officer (CIO)

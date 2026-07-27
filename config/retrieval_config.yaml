@@ -1,0 +1,16 @@
+# Retrieval and Chunking Configuration
+# Controls how documents are split and how similarity search operates.
+
+chunking:
+  chunk_size: 1000
+  chunk_overlap: 200
+  separators:
+    - "\n\n"
+    - "\n"
+    - ". "
+    - " "
+
+retrieval:
+  top_k: 4
+  similarity_threshold: 0.3
+  search_type: "similarity"

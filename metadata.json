@@ -1,0 +1,25 @@
+{
+  "documents": [
+    {
+      "filename": "student_handbook.txt",
+      "department": "Academic Affairs",
+      "owner": "Office of Academic Affairs",
+      "access_level": "all_students",
+      "description": "University policies, academic standards, tuition, student services, campus life, and graduation requirements"
+    },
+    {
+      "filename": "campus_it_policy.txt",
+      "department": "Information Technology Services",
+      "owner": "ITS Security Team",
+      "access_level": "all_students",
+      "description": "Campus IT policies, student accounts, WiFi, LMS usage, data privacy, and FERPA compliance"
+    },
+    {
+      "filename": "new_student_orientation.txt",
+      "department": "Student Affairs",
+      "owner": "Office of Student Affairs",
+      "access_level": "incoming_students",
+      "description": "New student orientation schedule, pre-arrival checklist, campus tour, technology setup, and first semester success plan"
+    }
+  ]
+}

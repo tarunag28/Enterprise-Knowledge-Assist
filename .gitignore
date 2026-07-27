@@ -1,0 +1,16 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
